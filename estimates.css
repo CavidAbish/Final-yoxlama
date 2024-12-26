@@ -4,7 +4,7 @@
 }
 
 .intro-container{
-    background: url('../images/tender.jpg');
+    background: url('./images/tender.jpg');
     width: 100%;
     height: 70vh;
     display: flex;

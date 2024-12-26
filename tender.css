@@ -4,7 +4,7 @@
 }
 
 .intro-container{
-    background: url('../images/estimates.jpg');
+    background: url('./images/estimates.jpg');
     width: 100%;
     height: 70vh;
     display: flex;

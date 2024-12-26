@@ -211,7 +211,7 @@
     position: relative;
     cursor: pointer;
     height: 66vh;
-    background: url('../images/video.jpg');
+    background: url('./images/video.jpg');
     width: 100%;
     border-radius: 20px;
     display: flex;
