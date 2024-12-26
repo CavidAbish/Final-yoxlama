@@ -11,15 +11,15 @@
 }
 
 .intro__slider-item_1 {
-    background: url('../images/intro-slider-01.jpg') no-repeat center center;
+    background: url('./images/intro-slider-01.jpg') no-repeat center center;
 }
 
 .intro__slider-item_2 {
-    background: url('../images/intro-slider-01.jpg') no-repeat center center;
+    background: url('./images/intro-slider-01.jpg') no-repeat center center;
 }
 
 .intro__slider-item_3 {
-    background: url('../images/intro-slider-01.jpg') no-repeat center center;
+    background: url('./images/intro-slider-01.jpg') no-repeat center center;
 }
 
 .intro__title {
@@ -421,7 +421,7 @@
 
 
 .test {
-    background: url('../images/test.jpg') no-repeat center center;
+    background: url('./images/test.jpg') no-repeat center center;
     background-size: cover;
     padding: 118px 0;
     margin-bottom: 105px;
